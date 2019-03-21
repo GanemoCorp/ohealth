@@ -1,0 +1,4 @@
+[submodule "Yaroslab/v12_oehealth"]
+	path = Yaroslab/v12_oehealth
+	url = git@github.com:Yaroslab/v12_oehealth.git
+	branch = master
